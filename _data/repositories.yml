@@ -1,12 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AshfakYeafi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AshfakYeafi/Data-Structures-and-Algorithms
+  - AshfakYeafi/OpenCv-Project-with-Python
+  - AshfakYeafi/Pandora-Box
+  - AshfakYeafi/Compatitive-Programing
+  - AshfakYeafi/Voice_Assistant_using_python-E_Bot
+  - AshfakYeafi/Machine-Learing-Books
+  - AshfakYeafi/wikikoro
+  - AshfakYeafi/Machine-Learning-Collection
+  - AshfakYeafi/Data-Science-Cheatsheet
+  - AshfakYeafi/AI_practice_code
+  - AshfakYeafi/Fase_mask_identification
+

@@ -1,0 +1,2 @@
+It will cover basic topics in Java language such as classes, data structures, inheritance, exception handling, etc. You are expected to be proficient in either Java 7 or Java 8.
+Here are the certificate [Java (Basic)](https://www.hackerrank.com/certificates/abf08726805f)

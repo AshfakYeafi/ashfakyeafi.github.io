@@ -2,29 +2,107 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bsc graduate in EEE, Kaggle Grandmaster, AI Researcher, Python Programmer
+subtitle: Graduate Research Assistant @ MSU, Kaggle Grandmaster, AI Researcher, Python Programmer
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <!-- <p>555 your office number</p> -->
     <!--<p>123 your address street</p> -->
-    <!--<p>Your City, State 12345</p> -->
+    <p>East Lansing, Michigan, USA </p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Greetings! I'm a driven individual with a diverse skill set and a passion for leveraging technology to tackle real-world challenges. My name is Ashfak Yeafi, and I am a recent graduate with a Bachelor's degree in Electrical and Electronic Engineering (EEE) from Khulna University of Engineering & Technology.
+## 👨‍🔬 About Me
 
-During my academic journey, I delved deep into the realm of engineering, gaining invaluable insights and honing my problem-solving skills. I firmly believe in the importance of applying classical strategies to contemporary projects, and this philosophy has guided my approach to various endeavors.
+I’m **Ashfak Yeafi**, a graduate researcher in **Biosystems and Agricultural Engineering** at **Michigan State University (MSU)**, where I work under the guidance of [**Prof. Yuzhen Lu**](https://www.yuzhenlu.com/). My research focuses on integrating **Artificial Intelligence (AI)** and **Hyperspectral Light Scattering Imaging** to develop **non-invasive methods for early-stage rot detection in fruits**, particularly blueberries. This work aims to revolutionize quality control in the agricultural supply chain using advanced **machine learning**, **computer vision**, and **spectral analysis** techniques.
 
-One of my notable achievements is attaining the prestigious title of Kaggle Grandmaster, which speaks to my proficiency in data science and machine learning. I am deeply fascinated by the potential of AI and its applications in solving complex problems efficiently.
+My long-term goal is to pursue a **Ph.D. in Computer Science or AI**, with a focus on **vision-language models**, **generative AI**, and **transformer architectures** applied to medical and agricultural imaging.
 
-As a self-taught Python developer, I have dedicated countless hours to mastering my coding skills, particularly in the domain of machine learning. This dedication has equipped me with proven and tested abilities, supported by a solid foundation in computing.
+---
 
-Aside from technical expertise, I pride myself on effective communication skills, enabling me to articulate complex concepts in a clear and concise manner. Whether it's collaborating with colleagues or presenting technical ideas to non-technical stakeholders, I strive to ensure seamless communication channels.
+## 🎓 Academic Background
 
-In essence, I am a motivated individual with a relentless drive to learn and grow in the field of technology. I am excited about the opportunities ahead and am committed to making meaningful contributions to the ever-evolving landscape of engineering and AI research.
+- **M.S. in Biosystems Engineering** (2025 – Present)  
+  *Michigan State University, USA*  
+  Research: AI-driven rot detection using hyperspectral imaging
+
+- **B.Sc. in Electrical and Electronic Engineering** (2019 – 2024)  
+  *Khulna University of Engineering & Technology (KUET), Bangladesh*  
+  Thesis: 3D GAN & dynamic convolution for brain tumor segmentation
+
+---
+
+## 🔬 Research Interests
+
+- **Computer Vision** in Healthcare and Agriculture  
+- **Deep Learning** (CNNs, RNNs, Transformers, Hybrid Models)  
+- **Hyperspectral and Multispectral Imaging**  
+- **Biomedical Image and Signal Processing**  
+- **Generative Models** (GANs, VAEs, Diffusion Models)  
+- **Embedded AI** with **ROS**, **Gazebo**, and real-time systems  
+- **Digital Agriculture** & **Non-destructive Testing**
+
+<!-- ---
+
+## 💡 Projects & Publications
+
+- **Blueberry Rot Detection**: Early-stage fungal rot detection using hyperspectral light scattering, machine learning, and CNNs.
+- **ADTNet**: Attention-guided U-Net combining Dynamic CNNs and Transformers for skin cancer segmentation – *Presented at ICECE 2024*.
+- **GSNet**: A 3D attention-based hybrid network for glioma segmentation – *Published in Optics Express*.
+- **Ensemble Deep Learning for Flora Classification** – *Published in Modeling Earth Systems and Environment*.
+- **LSTM for Load Forecasting** – Encoder-decoder model for short-term energy demand prediction (*IEEE STII 2022*).
+- **Semi-supervised GAN for Brain Tumor Classification** *(Under Review)*.
+
+[View Full Publication List](#publications) -->
+
+---
+
+## 🤖 Technical Skills
+
+- **Programming**: Python, C, C++, C#  
+- **AI Frameworks**: PyTorch, TensorFlow, Keras  
+- **Vision & Imaging**: OpenCV, Scikit-image, Pillow  
+- **Web**: Flask, HTML, Jinja2, WordPress  
+- **Robotics**: ROS, Gazebo, Rviz, CMake  
+- **Modeling/Simulation**: AutoCAD, Fusion 360, Simulink  
+- **EDA & Tools**: MATLAB, Proteus, Excel, Tableau  
+- **Fabrication**: 3D Printing, Laser Cutting, Cura, PrusaSlicer  
+- **OS**: Linux (Ubuntu), Windows  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Kaggle Datasets Grandmaster** (Ranked #24 worldwide)
+- 🥈 **Kaggle Notebook Master** (Top 250)
+- 🛰️ **Winner**, Indian Rover Design Challenge 2024
+- 🛸 **Software Sub-Team Co-Lead**, KUET Mars Rover – *Developed autonomous navigation system*
+
+---
+## 🌐 Online Profiles
+
+- 🔗 **[GitHub](https://github.com/AshfakYeafi)** – Research projects, tools, and open-source contributions  
+- 🔗 **[Kaggle](https://www.kaggle.com/ashfakyeafi)** – Competitions, datasets, and notebooks  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/ashfakyeafi)** – Professional profile  
+- 🔗 **[Google Scholar](https://scholar.google.com/citations?user=TdBa8jwAAAAJ)** – Research profile
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to research collaborations, internships, and discussions about AI in medicine, agriculture, or embedded systems.
+
+- 📧 Email: <yeafiashfak@gmail.com>  
+- 🏛️ Department of Biosystems and Agricultural Engineering, Michigan State University  
+- 🗓️ Available for academic collaborations, proposal writing, and paper reviews
+
+---
+
+> *“The true sign of intelligence is not knowledge but imagination.”*  
+> — **Albert Einstein**
+

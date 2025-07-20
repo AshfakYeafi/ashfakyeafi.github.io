@@ -11,6 +11,7 @@ profile:
   more_info: >
     <!-- <p>555 your office number</p> -->
     <!--<p>123 your address street</p> -->
+    <p><a href="mailto:yeafiashfak@gmail.com">yeafiashfak@gmail.com</a></p>
     <p>East Lansing, Michigan, USA </p>
 
 news: false # includes a list of news items

@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 ## 👨‍🔬 About Me
 
-I’m **Ashfak Yeafi**, a graduate researcher in **Biosystems and Agricultural Engineering** at **Michigan State University (MSU)**, where I work under the guidance of [**Prof. Yuzhen Lu**](https://www.yuzhenlu.com/). My research focuses on integrating **Artificial Intelligence (AI)** and **Hyperspectral Light Scattering Imaging** to develop **non-invasive methods for early-stage rot detection in fruits**, particularly blueberries. This work aims to revolutionize quality control in the agricultural supply chain using advanced **machine learning**, **computer vision**, and **spectral analysis** techniques.
+I’m **Ashfak Yeafi**, a graduate researcher in **Biosystems and Agricultural Engineering** at **Michigan State University (MSU)**. My current research work focuses on integrating **Computer Vision** and **Hyperspectral Light Scattering Imaging** to develop **non-invasive methods for early-stage rot detection in fruits**, particularly blueberries. This work aims to revolutionize quality control in the agricultural supply chain using advanced **machine learning**, **computer vision**, and **spectral analysis** techniques.
 
 My long-term goal is to pursue a **Ph.D. in Computer Science or AI**, with a focus on **vision-language models**, **generative AI**, and **transformer architectures** applied to medical and agricultural imaging.
 
@@ -28,7 +28,7 @@ My long-term goal is to pursue a **Ph.D. in Computer Science or AI**, with a foc
 
 ## 🎓 Academic Background
 
-- **M.S. in Biosystems Engineering** (2025 – Present)  
+- **M.S. in Biosystems Engineering** (May 2025 – Present)  
   *Michigan State University, USA*  
   Research: AI-driven rot detection using hyperspectral imaging
 
